@@ -15,7 +15,8 @@ Support ver. Magento: 1.5 - 1.9.2.2
 * Added check time shop and time send24.com
 * Added send24 information in order.
 * Added tracking link. 
-* Added delivery send24(PDF, DOC, ZPL, EPL) - printout.  
+* Added delivery send24(PDF, DOC, ZPL, EPL) - printout.
+ 
 == 1.0.0 ==
 * First release
 
