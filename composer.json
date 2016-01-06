@@ -25,7 +25,6 @@
     "source": "https://github.com/barbotkin/Send24-Extension-for-Magento"
   },
   "extra": {
-    "installer-name": "Send24",
-
+    "installer-name": "Send24"
   }
 }
