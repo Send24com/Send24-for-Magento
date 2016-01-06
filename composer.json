@@ -9,7 +9,7 @@
     "delivery"
   ],
   "homepage": "https://github.com/barbotkin/Send24-Extension-for-Magento",
-  "license": "GPLv3",
+  "license": "GPLv3 or later",
   "authors": [
     {
       "name": "Roman Barbotkin",
