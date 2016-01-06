@@ -19,4 +19,3 @@ Support ver. Magento: 1.5 - 1.9.2.2
  
 == 1.0.0 ==
 * First release
-
