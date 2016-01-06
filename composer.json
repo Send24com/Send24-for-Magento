@@ -1,6 +1,6 @@
 {
   "name": "barbotkin/send24-extension-for-magento",
-  "version": "1.0.1",
+  "version": "v1.0.1",
   "description": "Offer your customers premium delivery service with Send24 Sameday Express solution.",
   "type": "magento-plugin",
   "keywords": [
@@ -25,6 +25,9 @@
     "source": "https://github.com/barbotkin/Send24-Extension-for-Magento"
   },
   "extra": {
-    "installer-name": "Send24"
+    "installer-name": "Send24",
+    "branch-alias": {
+          "master": "1.0.*"
+      }
   }
 }
