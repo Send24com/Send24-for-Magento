@@ -1,4 +1,4 @@
-# [Send24](http://send24.com) Extension for Magento [![Latest Stable Version](https://poser.pugx.org/barbotkin/send24-extension-for-magento/v/stable)](https://packagist.org/packages/barbotkin/send24-extension-for-magento) [![License](https://poser.pugx.org/barbotkin/send24-extension-for-magento/license)](https://packagist.org/packages/barbotkin/send24-extension-for-magento)
+# [Send24](http://send24.com) Extension for Magento [![Latest Stable Version](https://poser.pugx.org/barbotkin/send24-extension-for-magento/v/stable)](https://packagist.org/packages/barbotkin/send24-extension-for-magento) [![License](https://poser.pugx.org/barbotkin/send24-extension-for-magento/license.svg)](http://opensource.org/licenses/GPL-3.0)
 Offer your customers premium delivery service with Send24 Sameday Express solution. Easy integration into your webshop. Fast and secure delivery service from door to door.
 
 Support ver. Magento: 1.5 - 1.9.2.2
